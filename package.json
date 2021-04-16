@@ -1,10 +1,14 @@
 {
   "name": "react-native-header-component",
   "version": "1.0.0",
-  "description": "",
+  "description": "Custom header component",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logicallydimp23/react-native-header-component.git"
   },
   "author": "Steve Palero",
   "license": "ISC",
