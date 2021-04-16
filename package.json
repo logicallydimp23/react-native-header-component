@@ -1,6 +1,6 @@
 {
   "name": "react-native-header-component",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Custom header component",
   "main": "index.ts",
   "scripts": {
